@@ -26,4 +26,5 @@
 12.	檢查錄音檔案的Energy，如果大於某個threshold，就將它設為隔天的鬧鐘
 
 **Liscense**
+
 This project utilizes a proprietary TTS/STT engine provided by Mi2S. Due to licensing restrictions, the core library and access tokens are excluded from this repository. However, the integration logic can be found in mi2s_asr_exp.py
